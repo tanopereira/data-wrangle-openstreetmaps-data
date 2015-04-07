@@ -1,0 +1,5 @@
+https://s3.amazonaws.com/metro-extracts.mapzen.com/montevideo_uruguay.osm.bz2
+
+The file is the whole data available for Montevideo, the capital city of Uruguay.
+I chose Montevideo because it is the city I live in and wanted to check how clean the data was.
+
